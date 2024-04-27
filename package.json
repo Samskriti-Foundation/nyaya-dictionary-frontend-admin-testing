@@ -1,0 +1,10 @@
+{
+  "name": "frontend-admin-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.7.1",
+    "puppeteer-core": "^22.7.1"
+  }
+}
